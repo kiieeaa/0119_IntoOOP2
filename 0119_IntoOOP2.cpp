@@ -12,6 +12,7 @@ public:
 	void input () { // methode input persegi panjang 
 		cout << "panjang : ";
 		cin >> panjang;
+		cout << "Lebar :";
 
 	
 
