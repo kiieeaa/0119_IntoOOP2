@@ -19,6 +19,7 @@ public:
 	float HitungLuas() {
 		return panjang * lebar;
 	}
+	void display() {
 
 	
 
