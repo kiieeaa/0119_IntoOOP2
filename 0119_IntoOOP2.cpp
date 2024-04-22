@@ -16,6 +16,7 @@ public:
 		cin >> lebar;
 	}
 
+	float HitungLuas() {
 
 	
 
