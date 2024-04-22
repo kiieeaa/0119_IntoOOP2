@@ -13,6 +13,9 @@ public:
 		cout << "panjang : ";
 		cin >> panjang;
 		cout << "Lebar :";
+		cin >> lebar;
+	}
+
 
 	
 
