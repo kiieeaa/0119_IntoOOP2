@@ -26,6 +26,7 @@ public:
 	};
 	int main(){
 		BangunDatar obj;
+		obj.input();
 
 
 };
