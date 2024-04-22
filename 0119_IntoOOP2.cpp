@@ -25,6 +25,8 @@ public:
 		cout << "luasnya = " << HitungLuas() << endl;
 	};
 	int main(){
+		BangunDatar obj;
+
 
 };
 
