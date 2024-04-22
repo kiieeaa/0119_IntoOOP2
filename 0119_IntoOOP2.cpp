@@ -17,6 +17,8 @@ public:
 	}
 
 	float HitungLuas() {
+		return panjang * lebar;
+	}
 
 	
 
