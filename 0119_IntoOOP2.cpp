@@ -27,7 +27,9 @@ public:
 	int main(){
 		BangunDatar obj;
 		obj.input();
-
+		obj.display();
+		return 0;
+	}
 
 };
 
