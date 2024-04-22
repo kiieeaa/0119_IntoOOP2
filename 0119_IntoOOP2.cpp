@@ -10,6 +10,8 @@ public:
 	float luas;
 
 	void input () { // methode input persegi panjang 
+		cout << "panjang : ";
+
 	
-	}
+
 };
