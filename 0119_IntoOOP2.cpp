@@ -23,7 +23,9 @@ public:
 		cout << "panjangnya = " << panjang << endl;
 		cout << "lebarnya= " << lebar << endl;
 		cout << "luasnya = " << HitungLuas() << endl;
-	}
+	};
+	int main(){
+
 };
 
 
